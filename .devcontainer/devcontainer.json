@@ -1,4 +1,4 @@
-
+{
   "name": "asm-labs",
   "build": {
     "dockerfile": "Dockerfile"
