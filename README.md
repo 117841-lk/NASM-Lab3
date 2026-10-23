@@ -15,7 +15,7 @@ Celem zajęć jest zapoznanie studenta z:
 - zapisywaniem wyników obliczeń w pamięci,
 - analizą działania programu krok po kroku w debuggerze GDB.
 
-W przykładach i zadaniach korzystamy z pełnych rejestrów 64-bitowych: `rax`, `rbx`, `rcx`, `rdx`, `rsi`, `rdi` i `rsp`. Nie korzystamy z ich części 32-bitowych ani bajtowych, a także z rejestrów `r8–r15`.
+W przykładach i zadaniach korzystamy z pełnych rejestrów 64-bitowych: `rax`, `rbx`, `rcx`, `rdx`, `rsi`, `rdi` i `rsp`.
 
 ## Struktura projektu
 
